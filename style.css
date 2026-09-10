@@ -1,6 +1,18 @@
+
 header{
     margin-left: 600px;
+  
 }
 h1{
     margin-bottom: 10px;
+}
+main{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: justify;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    background-color: rgb(198, 198, 214);
 }
